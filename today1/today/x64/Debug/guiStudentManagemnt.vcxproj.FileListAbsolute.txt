@@ -1,0 +1,3 @@
+C:\Users\Berserk\Desktop\guiStudentManagemnt\guiStudentManagemnt\x64\Debug\guiStudentManagemnt.vcxproj.AssemblyReference.cache
+C:\Users\Berserk\Desktop\guiStudentManagemnt\guiStudentManagemnt\x64\Debug\guiStudentManagemnt.MyForm.resources
+C:\Users\Berserk\Desktop\guiStudentManagemnt\guiStudentManagemnt\x64\Debug\guiStudentManagemnt.vcxproj.GenerateResource.cache
